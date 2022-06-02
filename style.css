@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(163, 143, 185);
+    /* border: 10px solid white; */
+}
+div div{
+    border: 10px solid white;
+}
+body div img {
+    max-height:80px;
+    width: auto;
+    margin-top: 0px;
+}
+body div h1{
+    background-color: rgb(163, 143, 185);
+    color: rgb(255, 255, 255);
+    font-size:49px;
+    font-family: 'Press Start 2P';
+    float:left; 
+    margin-top:20px;
+    margin-left: 15px;
+}
